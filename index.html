@@ -18,6 +18,7 @@
     <link href='http://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>
 
      <script src="scripts/modernizr.js"></script>
+     <script src="https://cdn.jsdelivr.net/npm/baffle@0.3.6/dist/baffle.min.js"></script>
 
 </head>
 
@@ -61,7 +62,18 @@
             <div class="site-tagline">
                 <p><strong>Hello</strong><br> My Name Is <strong>Akbar Palwa <br></strong> 
                     I'm An Intern Student in <a href="http://nusantech.com/" target="_blank">Nusantech</a> Jakarta<br>
-                    I Really Love Unicorn, IU, Jisoo, And Abselutely You. <br><br></p>
+                    I Really Love <div class = 'container' > 
+                        <div class ='data'>Unicorn, IU, Jisoo, And Abselutely You.</div></div>
+                        <script type="text/javascript">
+                        const text = baffle ('.data');
+                        text.set({
+                            characters : '▓>/ ▓▒░▒░ /█▒░▒ <█< ▒>▓▒█ ▓█>█ █<▓ ░▒/█ ▓▒█▒',
+                            speed : 120
+                        });
+                        text.start();
+                        text.reveal(4000); 
+                        </script>
+                        <br><br></p>
                     <p>If You're Insterested At Me, Please Find Me On My Social Network.  <a href="http://Instagram.com/pxlwa" target="_blank">Instagram,</a><a href="http://twitter.com/palwa66" target="_blank">Twitter,</a><a href="http://github.com/akbarpalwa" target="_blank">Github</a></p>
             </div>
         </header><!-- / .site-header -->
