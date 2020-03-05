@@ -59,7 +59,7 @@ body.loaded,
     opacity: 1;
 }
 a, a:visited {
-    color: rgb(102, 126, 121);
+    color: #90D4C5;
     text-decoration: none;
     transition: color 0.1s ease-in-out;
 }
@@ -181,14 +181,12 @@ pre {
 pre {
   margin-bottom: 2rem;
 }
-.tes{
-    font-size: 3.375rem;
-}
+
 /*===== Titles =====*/
 .site-title {
     font-family: 'Righteous',helvetica,sans-serif;
     font-size: 26px;
-    color: #fa879e;
+    color: #90D4C5;
     line-height: 1.5em;
     position: relative;
     z-index: 12;
@@ -199,10 +197,10 @@ pre {
     position: fixed;
 }
 .site-title a,
-.site-title a:visited { color: #fa879e; }
+.site-title a:visited { color: #90D4C5; }
 .site-title a:hover,
 .site-title a:active {
-    color: #fa879e;
+    color: #90D4C5;
     opacity: 0.8;
 }
 .site-title div { display: inline; }
@@ -213,7 +211,7 @@ pre {
 }
 .site-tagline p {
     color: #2c2c2c;
-    font-size: 10px;
+    font-size: 21px;
     text-align: left;
     width: 90%;
 }
@@ -249,7 +247,7 @@ pre {
     line-height: 14px;
 }
 .languages ul li a:hover {
-    color: #fa879e; 
+    color: #90D4C5; 
 }
 
 .languages ul li.active a {
@@ -266,7 +264,7 @@ pre {
     height: 54px;
     width: 54px;
     background-color: #2c2c2c;
-    border-radius: 30%;
+    border-radius: 50%;
     /* image replacement */
     overflow: hidden;
     text-indent: 100%;
@@ -925,7 +923,7 @@ nav[role="navigation"] {
 .site-header,
 .page-desc {
     padding: 40px 20px;
-    width: 150%;
+    width: 100%;
 }
 
 .page-desc img {
@@ -980,7 +978,7 @@ nav[role="navigation"] {
 
 /*=================================*/
 /* Footer Styles
-/*============== ===================*/
+/*=================================*/
 .site-footer {
     color: #2c2c2c;
     font-family: 'quicksand', Arial, sans-serif;
@@ -1000,7 +998,7 @@ nav[role="navigation"] {
 
     /*===== Titles =====*/
     .site-tagline p { 
-        font-size: 20px;
+        font-size: 28px;
     }
     /*===== Navigations =====*/
     .cd-nav-trigger {
@@ -1062,7 +1060,7 @@ nav[role="navigation"] {
         margin-bottom: 60px;
     }
     .site-tagline p { 
-        font-size: 20px;
+        font-size: 36px;
     }
     /*===== Navigations =====*/
     .cd-nav-trigger {
@@ -1133,7 +1131,7 @@ nav[role="navigation"] {
         margin-bottom: 80px;
     }
     .site-tagline p { 
-        font-size: 20px;
+        font-size: 42px;
     }
     /*===== Navigations =====*/
     .cd-nav-trigger {
@@ -1261,9 +1259,6 @@ nav[role="navigation"] {
 
     /*===== Structures =====*/
     .site-header,
-    .opacity{
-        color: #747474;
-    }
     .page-desc {
         padding: 100px 200px;
     }
