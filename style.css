@@ -59,7 +59,7 @@ body.loaded,
     opacity: 1;
 }
 a, a:visited {
-    color: #90D4C5;
+    color: #fa879e;
     text-decoration: none;
     transition: color 0.1s ease-in-out;
 }
@@ -186,7 +186,7 @@ pre {
 .site-title {
     font-family: 'Righteous',helvetica,sans-serif;
     font-size: 26px;
-    color: #90D4C5;
+    color: #fa879e;
     line-height: 1.5em;
     position: relative;
     z-index: 12;
@@ -197,10 +197,10 @@ pre {
     position: fixed;
 }
 .site-title a,
-.site-title a:visited { color: #90D4C5; }
+.site-title a:visited { color: #fa879e; }
 .site-title a:hover,
 .site-title a:active {
-    color: #90D4C5;
+    color: #fa879e;
     opacity: 0.8;
 }
 .site-title div { display: inline; }
@@ -247,7 +247,7 @@ pre {
     line-height: 14px;
 }
 .languages ul li a:hover {
-    color: #90D4C5; 
+    color: #fa879e; 
 }
 
 .languages ul li.active a {
@@ -645,7 +645,7 @@ div.image img { width: 100%; }
     color: #BBBBBB;
     transition: opacity 0.2s ease-in-out;
 }
-.project-meta a:hover { color: #90D4C5; }
+.project-meta a:hover { color: #fa879e; }
 .project-meta .tags { margin-top: 17px; }
 .project-meta .tags a { margin-left: 10px; }
 .project-meta .tags a:first-child { margin-left: 0; }
@@ -710,8 +710,8 @@ nav[role="navigation"] {
 }
 .cd-pagination .current {
   /* selected number */
-  background-color: #90D4C5;
-  border-color: #90D4C5;
+  background-color: #fa879e;
+  border-color: #fa879e;
   color: #ffffff;
   pointer-events: none;
 }
@@ -846,7 +846,7 @@ nav[role="navigation"] {
 
 
 /*===== News =====*/
-.news .blog_item:nth-child(odd) {  background: #90D4C5; }
+.news .blog_item:nth-child(odd) {  background: #fa879e; }
 .news .blog_item:nth-child(even) {  background: #fafbfb; }
 .blog_item {
     padding: 80px 50px;
@@ -986,7 +986,7 @@ nav[role="navigation"] {
 .site-footer p { margin: 0; font-size: 16px;display: inline;}
 .site-footer a,
 .site-footer a:visited { color: #2c2c2c; }
-.site-footer a:hover { color: #90D4C5; } 
+.site-footer a:hover { color: #fa879e; } 
 
 /*=================================*/
 /* Media Queries
