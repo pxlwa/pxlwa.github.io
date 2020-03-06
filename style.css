@@ -997,13 +997,20 @@ nav[role="navigation"] {
 @media only screen and (min-width: 401px) {
 
     /*===== Titles =====*/
+    .box{
+        align-items: center;
+        border-radius: 50px;
+        size: 100px;
+    }
     .data{
         font-family: Poppins;
         color: #000;
-        letter-spacing: 8px;
+        letter-spacing: 4px;
         font-weight: 400;
         position: absolute;
         transform: translate(-50, -50);
+        margin-bottom: 100px;
+        width: 75%;
     }
     .site-tagline p { 
         font-size: 28px;
