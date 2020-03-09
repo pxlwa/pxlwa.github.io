@@ -194,7 +194,7 @@ pre {
     margin-bottom: 120px;
 }
 .site-title a {
-    position: fixed;
+    position: absolute;
 }
 .site-title a,
 .site-title a:visited { color: #fa879e; }
@@ -257,7 +257,7 @@ pre {
 /* Navigation Styles
 /*=================================*/
 .cd-nav-trigger {
-    position: fixed;
+    position: absolute;
     z-index: 999;
     right: 20px;
     top: 34px;
