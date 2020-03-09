@@ -911,7 +911,10 @@ nav[role="navigation"] {
     overflow: hidden;
 }
 /*===== Footer =====*/
-.site-footer { padding: 40px 200px;}
+.site-footer { 
+    padding: 40px 200px;
+    font-family: poppins;
+}
 
 /*=================================*/
 /* Structure
