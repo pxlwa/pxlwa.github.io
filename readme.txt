@@ -1,1 +1,1 @@
-my name is akbar palwa
+kalo mandi, kaki gausah disabun.
