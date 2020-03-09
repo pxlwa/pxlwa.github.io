@@ -1015,6 +1015,17 @@ nav[role="navigation"] {
         margin-bottom: 100px;
         width: 75%;
     }
+    .data2{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        
+    }
     .site-tagline p { 
         font-size: 28px;
     }
