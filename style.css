@@ -659,9 +659,11 @@ nav[role="navigation"] {
   margin: 2em auto 2em;
   text-align: center;
 }
-/*nggo ngilangna*/
-
-
+.cd-pagination li {
+  /* hide numbers on small devices */
+  display: none;
+  margin: 0 .2em;
+}
 .cd-pagination li.button {
   /* make sure prev next buttons are visible */
   display: inline-block;
