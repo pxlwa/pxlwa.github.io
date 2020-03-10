@@ -676,7 +676,7 @@ nav[role="navigation"] {
   user-select: none;
   /* use padding and font-size to change buttons size */
   padding: .4em .6em;
-  font-size: 16px;
+  font-size: 14px;
 
 }
 .cd-pagination a {
