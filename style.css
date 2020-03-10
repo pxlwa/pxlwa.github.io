@@ -659,11 +659,9 @@ nav[role="navigation"] {
   margin: 2em auto 2em;
   text-align: center;
 }
-.cd-pagination li {
-  /* hide numbers on small devices */
-  display: none;
-  margin: 0 .2em;
-}
+/*nggo ngilangna*/
+
+
 .cd-pagination li.button {
   /* make sure prev next buttons are visible */
   display: inline-block;
@@ -675,9 +673,8 @@ nav[role="navigation"] {
   -ms-user-select: none;
   user-select: none;
   /* use padding and font-size to change buttons size */
-  padding: .6em .8em;
-  font-size: 18p
-  x;
+  padding: .4em .6em;
+  font-size: 16px;
 
 }
 .cd-pagination a {
