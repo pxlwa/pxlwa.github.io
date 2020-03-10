@@ -45,7 +45,7 @@ html {
 body {
     background: #FFFFFF;
     color: #2c2c2c;
-    font-family: 'quicksand', Arial, sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-size: 18px;
     line-height: 1.65;
     opacity: 0;
@@ -1006,7 +1006,7 @@ nav[role="navigation"] {
         size: 100px;
     }
     .data{
-        font-family: Poppins;
+        font-family: 'Poppins', sans-serif;
         color: #000;
         letter-spacing: 4px;
         font-weight: 400;
@@ -1059,7 +1059,7 @@ nav[role="navigation"] {
     /*===== Footer =====*/
     .site-footer { padding: 40px }
 
-}
+
 
 @media only screen and (min-width: 600px) {
 
