@@ -675,8 +675,8 @@ nav[role="navigation"] {
   -ms-user-select: none;
   user-select: none;
   /* use padding and font-size to change buttons size */
-  padding: .4em .6em;
-  font-size: 14px;
+  padding: .6em .8em;
+  font-size: 18px;
 
 }
 .cd-pagination a {
