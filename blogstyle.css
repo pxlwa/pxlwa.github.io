@@ -59,7 +59,7 @@ body.loaded,
     opacity: 1;
 }
 a, a:visited {
-    color: #fff;
+    color: #fa879e;
     text-decoration: none;
     transition: color 0.1s ease-in-out;
 }
@@ -1450,6 +1450,12 @@ nav[role="navigation"] {
     margin-top: 2rem;
     cursor: pointer;
   }
+
+  .buttonnakal :visited {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.1s ease-in-out;
+}
   
   .btn:hover {
     opacity: 0.8;
