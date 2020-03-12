@@ -1451,7 +1451,7 @@ nav[role="navigation"] {
     cursor: pointer;
   }
 
-  .buttonnakal :visited {
+  .buttonnakal:visited {
     color: #fff;
     text-decoration: none;
     transition: color 0.1s ease-in-out;
