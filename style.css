@@ -927,7 +927,7 @@ nav[role="navigation"] {
     padding: 40px 20px;
     width: 100%;
 }
-}
+
 .page-desc img {
     margin:40px 0;
 }
@@ -1008,6 +1008,7 @@ nav[role="navigation"] {
         font-family: 'Poppins', sans-serif;
         color: #000;
         letter-spacing: 4px;
+        margin-left: 70px;
         font-weight: 400;
         position: absolute;
         transform: translate(-50, -50);
