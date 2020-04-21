@@ -1009,12 +1009,8 @@ nav[role="navigation"] {
         font-family: 'Poppins', sans-serif;
         color: #000;
         letter-spacing: 4px;
-        margin-left: 70px;
         font-weight: 400;
-        position: absolute;
         transform: translate(-50, -50);
-        margin-bottom: 100px;
-        width: 75%;
     }
     .death-poem{
         text-align: left;
@@ -1370,3 +1366,4 @@ nav[role="navigation"] {
 .ngeteh{
 color: violet;
 }
+
