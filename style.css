@@ -49,6 +49,7 @@ body {
     font-size: 18px;
     line-height: 1.65;
     opacity: 0;
+    overflow: hidden;
     overflow-x: hidden;
     transition: opacity 0.25s ease-in 0.1s;
     word-wrap: break-word;
